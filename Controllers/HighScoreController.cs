@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace gameapi.Controllers{
 
-    [Route("game/highscores")]
+    [Route("api/highscores")]
     public class HighScoresController : Controller    {
         private HighScoresProcessor _processor;
         public HighScoresController(HighScoresProcessor processor)        {
