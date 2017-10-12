@@ -12862,11 +12862,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\valtt\\Documents\\GitHub\\Pelisovellusten_taustajarjestelmat\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\valtt\\Documents\\GitHub\\Leaderboard\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\valtt\\Documents\\GitHub\\Pelisovellusten_taustajarjestelmat\\API\\API.csproj",
+      "projectPath": "C:\\Users\\valtt\\Documents\\GitHub\\Leaderboard\\API.csproj",
       "packagesPath": "C:\\Users\\valtt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\valtt\\Documents\\GitHub\\Pelisovellusten_taustajarjestelmat\\API\\obj\\",
+      "outputPath": "C:\\Users\\valtt\\Documents\\GitHub\\Leaderboard\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
